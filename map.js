@@ -18,6 +18,7 @@
 
 // With objects:
 const students = [
+    
   {
     id: 1,
     name: 'Mark',
